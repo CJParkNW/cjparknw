@@ -22,10 +22,9 @@ Source: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-
 -----
 ### Here's what I'm currently listening to!
 
-[![Spotify](https://spotify-nine-topaz.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/y9wwbn75hx9c2oiirljwi9i5f)
+[![Spotify](https://spotify-nine-topaz.vercel.app/api/spotify?background_color=141321&border_color=ffffff)](https://open.spotify.com/user/y9wwbn75hx9c2oiirljwi9i5f)
 
 Source: [novatorem/novatorem](https://github.com/novatorem/novatorem) for connecting your Spotify to GitHub
-
 
 
 
