@@ -14,7 +14,7 @@ Here are a few examples of projects that I have worked on or contributed to:
 
 -----
 
-[![Catherine's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjparknw&count_private=true&show_icons=true&theme=dark)](https://github.com/cjparknw/github-readme-stats)
+[![Catherine's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjparknw&count_private=true&show_icons=true&theme=radical)](https://github.com/cjparknw/github-readme-stats)
 
 Source: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for displaying stats
 
