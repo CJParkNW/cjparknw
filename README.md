@@ -14,4 +14,6 @@ Here are a few examples of projects that I have worked on or contributed to:
 
 -----
 
-[![Spotify](https://spotify-nine-topaz.vercel.app/api/spotify)](https://open.spotify.com/user/y9wwbn75hx9c2oiirljwi9i5f)
+[![Spotify](https://spotify-nine-topaz.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/y9wwbn75hx9c2oiirljwi9i5f)
+
+
