@@ -13,10 +13,19 @@ Here are a few examples of projects that I have worked on or contributed to:
 - [moderndive/moderndive](https://github.com/moderndive/moderndive): R package with data sets & functions to supplement learning 📈 intro statistics 
 
 -----
+
+[![Catherine's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjparknw&count_private=true&show_icons=true&theme=dark)](https://github.com/cjparknw/github-readme-stats)
+
+Source: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for displaying stats
+
+
+-----
 ### Here's what I'm currently listening to!
 
 [![Spotify](https://spotify-nine-topaz.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/y9wwbn75hx9c2oiirljwi9i5f)
 
 Source: [novatorem/novatorem](https://github.com/novatorem/novatorem) for connecting your Spotify to GitHub
+
+
 
 
