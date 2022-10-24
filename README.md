@@ -4,7 +4,7 @@ My name is Catherine (She/Her) and I am a current senior at Smith College pursui
 
 -----
 
-### Projects
+### Projects 📝 
 
 Here are a few examples of projects that I have worked on or contributed to:
 
