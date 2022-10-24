@@ -6,7 +6,7 @@ My name is Catherine (She/Her) and I am a current senior at Smith College pursui
 
 ### Projects
 
-Here are a few examples of projects that I have worked on:
+Here are a few examples of projects that I have worked on or contributed to:
 
 - [Ellen-Yi-Dong/valetbike](https://github.com/Ellen-Yi-Dong/valetbike): Ruby based bike-rental 🚲 website prototype built for a Software Engineering class
 - [rporta23/censusviz](https://github.com/rporta23/censusviz): R package for exploring and visualizing historical racial demographic 🌍 📊 census data 
