@@ -13,6 +13,7 @@ Here are a few examples of projects that I have worked on or contributed to:
 - [moderndive/moderndive](https://github.com/moderndive/moderndive): R package with data sets & functions to supplement learning 📈 intro statistics 
 
 -----
+### Here's what I'm currently listening to!
 
 [![Spotify](https://spotify-nine-topaz.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/y9wwbn75hx9c2oiirljwi9i5f)
 
