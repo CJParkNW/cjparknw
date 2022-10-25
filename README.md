@@ -26,5 +26,9 @@ Source: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-
 
 Source: [novatorem/novatorem](https://github.com/novatorem/novatorem) for connecting your Spotify to GitHub
 
+-----
+
+
+![Snake animation](https://github.com/cjparknw/cjparknw/blob/output/github-contribution-grid-snake.svg)
 
 
