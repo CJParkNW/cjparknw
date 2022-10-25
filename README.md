@@ -29,6 +29,4 @@ Source: [novatorem/novatorem](https://github.com/novatorem/novatorem) for connec
 -----
 
 
-![Snake animation](https://github.com/cjparknw/cjparknw/blob/output/github-contribution-grid-snake.svg)
-
 
