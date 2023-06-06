@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Catherine (She/Her) and I am a current senior at Smith College pursuing a Statistical and Data Sciences degree. Due to my research in a marine ecology lab 🐠 🌊 🦀, my main focus in data analysis has been environmental related. However, I am open to working in any field of research or industry!  
+My name is Catherine (She/Her) and I am a recent Smith College graduate with a Statistical and Data Sciences degree. Due to my research in a marine ecology lab 🐠 🌊 🦀, my main focus in data analysis has been environmental related. However, I am open to working in any field of research or industry!  
 
 -----
 
