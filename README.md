@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Catherine (She/Her) and I am a recent Smith College graduate with a Statistical and Data Sciences degree. Due to my research in a marine ecology lab 🐠 🌊 🦀, my main focus in data analysis has been environmental related. Currently, I am working on cybersecurity data science projects at Axio!
+My name is Catherine (She/Her) and I am a 2023 Smith College graduate with a Statistical and Data Sciences degree. Due to my research in a marine ecology lab 🐠 🌊 🦀, my main focus in data analysis has been environmental and marine related.
 
 -----
 
