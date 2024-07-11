@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Catherine (She/Her) and I am a 2023 Smith College graduate with a Statistical and Data Sciences degree. Due to my research in a marine ecology lab 🐠 🌊 🦀, my main focus in data analysis has been environmental and marine related.
+My name is Catherine (She/Her) and I am a 2023 Smith College graduate with a Statistical and Data Sciences degree. Due to my research in a marine ecology lab 🐠 🌊 🦀, my main focus in data analysis has been environmental and marine related. I am currently working as a Technical Support Engineer at Datadog!
 
 -----
 
