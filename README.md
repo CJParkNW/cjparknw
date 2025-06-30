@@ -4,6 +4,8 @@ My name is Catherine (She/Her) and I am a 2023 Smith College graduate with a Sta
 
 I am currently working as a Technical Support Engineer at Datadog!
 
+Feel free to explore more about my projects/experiences on my website: https://cjparknw.github.io/
+
 -----
 
 ### Projects 📝 
